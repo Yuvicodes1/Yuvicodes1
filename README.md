@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Yathaartha Srivastava 👋</h1>
 
 <p align="center">
-  🚀 Aspiring Software Developer | 📊 Passionate Problem Solver | 💻 Programming Enthusiast
+  Software Developer | Passionate Problem Solver | Programming Enthusiast
 </p>
 
 ---
@@ -15,22 +15,6 @@ I'm a dedicated Computer Science student with a strong interest in data structur
 - 🌱 Exploring system design, database optimization, and distributed systems.
 - 💬 Ask me about C++, Python, and algorithmic problem solving.
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/yathaartha-srivastava-063758258/).
-
----
-
-### 📈 Competitive Programming
-
-- 🧠 **315+ Submissions** on LeetCode with **108 Problems Solved**
-- 🔥 Active streak: 31 days | Total active days: 72+
-- 🟢 Easy: 71 | 🟡 Medium: 33 | 🔴 Hard: 4
-- 💡 Strong in: 
-  - Dynamic Programming
-  - Divide & Conquer
-  - Backtracking
-  - Bit Manipulation
-  - Hash Tables
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/yuvi_codes11?ext=contest)
 
 ---
 
@@ -49,7 +33,9 @@ I'm a dedicated Computer Science student with a strong interest in data structur
 > A few things I’ve been working on (visit my pinned repos for more!)
 
 - 🚜 **Farmin-GO**: A React + Firebase powered e-commerce platform tailored for agriculture.
+
 - 📧 **Smart Email Alert System**: React dashboard with Gmail integration to prioritize CDC emails.
+  
 - 🧠 **Fault-Prone SRS Detector**: NLP and ML-powered tool for detecting vulnerabilities in software requirement specs.
 
 ---
